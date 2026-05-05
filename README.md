@@ -2,7 +2,7 @@
 
 A real-time currency converter web app built with JavaScript. Convert between 150+ world currencies using live exchange rate API with instant calculations.
 
-**🔗 Live Demo:** [Try Now](https://monika200111.github.io/Currency-converter/)  
+**🔗 Live Demo:** [Try Now](https://monika200111.github.io/Currency-convertor/)  
 **💻 Tech Stack:** JavaScript · HTML5 · CSS3 · REST API · Async/Await
 
 ---
